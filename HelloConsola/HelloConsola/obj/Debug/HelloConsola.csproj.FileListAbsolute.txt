@@ -1,0 +1,7 @@
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\bin\Debug\HelloConsola.exe.config
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\bin\Debug\HelloConsola.exe
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\bin\Debug\HelloConsola.pdb
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\obj\Debug\HelloConsola.csprojAssemblyReference.cache
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\obj\Debug\HelloConsola.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\obj\Debug\HelloConsola.exe
+C:\Proyectos\PruebasGit\HelloConsola\HelloConsola\HelloConsola\obj\Debug\HelloConsola.pdb
