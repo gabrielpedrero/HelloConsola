@@ -14,8 +14,12 @@ namespace HelloConsola
 
             Usuario usuario = new Usuario { Nombre = "Gabriel", Apellidos = "Pedrero" };
 
-            Console.WriteLine($"El usuario creado es {usuario.Nombre} {usuario.Apellidos}");
-            Console.WriteLine("Pulse <Enter> para terminar...");
+            Console.WriteLine($"{Environment.NewLine}El usuario creado es {usuario.Nombre} {usuario.Apellidos}");
+
+            Pais pais = new Pais { Clave = "MX", Nombre = "México" };
+
+            Console.WriteLine($"{Environment.NewLine}El país creado es {pais.Nombre} ({pais.Clave})");
+            Console.WriteLine($"{Environment.NewLine}Pulse <Enter> para terminar...");
             Console.ReadLine();
         }
     }
